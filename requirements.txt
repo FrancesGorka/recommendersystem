@@ -1,0 +1,9 @@
+Flask
+redis
+kafka-python
+confluent-kafka
+requests
+python-dotenv
+psycopg2
+schedule
+scikit-learn
